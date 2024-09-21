@@ -1,0 +1,16 @@
+/cache/env/*.key
+/cache/log/*.key
+/cache/queue/*.key
+/cache/routes/*.key
+# /cache/views/*.key
+/node_modules
+/shared/*.key
+/vendor
+.env
+npm-debug.log
+yarn-error.log
+.idea
+.vscode
+CODE_OF_CONDUCT.md
+SECURITY.md
+LICENSE
